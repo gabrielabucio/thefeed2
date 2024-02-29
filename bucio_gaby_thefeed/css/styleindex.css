@@ -1,0 +1,26 @@
+#header {
+    text-align: center;
+    color:violet;
+    font-family: "Shantell Sans", cursive;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 10%;
+}
+
+#title {
+    border-width: 10px;
+    border-style: ridge;
+    border-color:violet;
+    width: 20%;
+    margin:auto;
+}
+
+h1 {
+    font-size:  90px;
+}
+
+
+
+h3 {
+    font-size: 25px;
+}

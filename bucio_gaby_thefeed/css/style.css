@@ -1,0 +1,81 @@
+#HomePage { 
+    margin top: 
+    font-size: 15
+    color: white
+    border-radius: 
+    margin-left: 
+    margn-right: 
+    box-shadow: 
+    padding bottom: 
+} 
+
+
+
+
+
+#header1 {
+ 
+
+}
+body{
+        background: url("../img/sky.jpg");
+        background-repeat:no-repeat;
+        background-size: cover; 
+        background-attachment: fixed;
+        text-align:center;
+
+    }
+
+
+#section {
+ background-color:rgb(160, 117, 230);
+ width: 50%;
+ margin:auto;
+
+
+}
+
+img {
+    padding-top:10px;
+}
+
+video {
+    padding-top: 10px;
+}
+
+h5 {
+    border-width: 2px;
+    width: 10%;
+    border-style:solid;
+    border-color:black;
+    margin:auto;
+}
+
+#header {
+    border-width: 10px;
+    width: 20%;
+    border-style:groove;
+    background-color:rgb(79, 6, 197);
+    border-color:rgb(79, 6, 197);
+    margin:auto;
+}
+
+#star {
+    text-align:center;
+}
+
+h1{
+    text-align: center;
+    color:antiquewhite;
+}
+
+
+nav { 
+    z-index: 1; 
+    background-color:aquamarine
+    position: fixed; 
+    left: 
+    top: 
+    padding: 
+    border-radius: 
+}
